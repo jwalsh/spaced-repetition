@@ -28,17 +28,3 @@ Testing
 - On the command line run: 
     npm test
 
-Why?
-------
-This will likely turn into a web app, this was an opportunity to start small and learn a little more about Node.js.
-On the plus side, it's very distraction free :)
-
-TODO: 
-- record the history and all data to a real db, do something interesting with it
-- refactor
-- choose when to start or skip to answer without waiting 4 seconds?
-- choose input file from command line instead of hard coded
-
-License
------
-MIT
