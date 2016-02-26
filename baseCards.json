@@ -1,14 +1,10 @@
 [
   {
-    "side1": "airport",
-    "side2": "el aeropuerto"
+    "side1": "one",
+    "side2": "un"
   },
   {
-    "side1": "bank",
-    "side2": "el banco"
-  },
-  {
-    "side1": "beach",
-    "side2": "la playa"
+    "side1": "two",
+    "side2": "deux"
   }
 ]

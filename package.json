@@ -1,0 +1,35 @@
+{
+  "name": "@jwalsh/spaced-repetition",
+  "version": "1.0.0",
+  "description": "Command Line Spaced Repetition",
+  "main": "spaced.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node node_modules/istanbul/lib/cli.js cover node_modules/jasmine/bin/jasmine.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwalsh/spaced-repetition.git"
+  },
+  "keywords": [
+    "learning",
+    "testing",
+    "recall",
+    "spaced",
+    "repetition",
+    "spacing",
+    "memory",
+    "practice",
+    "cognition"
+  ],
+  "author": "Joe Del <@joedel>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jwalsh/spaced-repetition/issues"
+  },
+  "homepage": "https://github.com/jwalsh/spaced-repetition#readme",
+  "dependencies": {
+    "istanbul": "^0.4.2",
+    "jasmine": "^2.4.1"
+  }
+}
